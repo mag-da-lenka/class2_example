@@ -1,4 +1,7 @@
 paris 
 copenhagen 
 berlin 
-rome
+rome 
+prague 
+lisbon 
+new your city
