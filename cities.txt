@@ -1,0 +1,4 @@
+paris 
+copenhagen 
+berlin 
+rome
